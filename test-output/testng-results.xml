@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-04-18T11:43:50 IST" name="Default suite" finished-at="2026-04-18T11:43:57 IST" duration-ms="7040">
+  <suite started-at="2026-04-19T11:09:49 IST" name="Default suite" finished-at="2026-04-19T11:09:53 IST" duration-ms="3944">
     <groups>
     </groups>
-    <test started-at="2026-04-18T11:43:50 IST" name="Default test" finished-at="2026-04-18T11:43:57 IST" duration-ms="7040">
+    <test started-at="2026-04-19T11:09:49 IST" name="Default test" finished-at="2026-04-19T11:09:53 IST" duration-ms="3944">
       <class name="tests.CheckoutTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.CheckoutTest@1283bb96]" started-at="2026-04-18T11:43:50 IST" name="setUp" finished-at="2026-04-18T11:43:53 IST" duration-ms="3690" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.CheckoutTest@2f9f7dcf]" started-at="2026-04-19T11:09:49 IST" name="setUp" finished-at="2026-04-19T11:09:51 IST" duration-ms="1887" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="endToEndCheckoutTest()[pri:0, instance:tests.CheckoutTest@1283bb96]" started-at="2026-04-18T11:43:53 IST" name="endToEndCheckoutTest" finished-at="2026-04-18T11:43:56 IST" duration-ms="2345" status="PASS">
+        <test-method signature="endToEndCheckoutTest()[pri:0, instance:tests.CheckoutTest@2f9f7dcf]" started-at="2026-04-19T11:09:51 IST" name="endToEndCheckoutTest" finished-at="2026-04-19T11:09:52 IST" duration-ms="1514" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endToEndCheckoutTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.CheckoutTest@1283bb96]" started-at="2026-04-18T11:43:56 IST" name="tearDown" finished-at="2026-04-18T11:43:57 IST" duration-ms="884" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.CheckoutTest@2f9f7dcf]" started-at="2026-04-19T11:09:52 IST" name="tearDown" finished-at="2026-04-19T11:09:53 IST" duration-ms="454" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
