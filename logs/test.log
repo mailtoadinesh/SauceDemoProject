@@ -1,0 +1,118 @@
+2026-03-19 18:34:19,062 INFO u.TestListener [main] ===== TEST SUITE STARTED: Default test =====
+2026-03-19 18:34:19,098 INFO t.CheckoutTest [main] ========== TEST START ==========
+2026-03-19 18:34:19,104 INFO t.CheckoutTest [main] Initializing browser: chrome
+2026-03-19 18:34:19,260 INFO u.TestListener [main] ===== TEST STARTED: checkoutFlow =====
+2026-03-19 18:34:19,271 WARN u.TestListener [main] ===== TEST SKIPPED: checkoutFlow =====
+2026-03-19 18:34:19,319 INFO u.TestListener [main] ===== TEST SUITE FINISHED: Default test =====
+2026-03-19 18:45:05,991 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-19 18:45:05,995 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-03-19 18:45:05,997 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-19 18:45:05,997 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-19 18:45:05,997 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-19 18:45:05,997 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-19 18:45:05,998 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-19 18:45:05,998 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-19 18:45:05,998 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-19 18:45:05,999 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-19 18:45:05,999 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-19 18:45:05,999 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-19 18:45:06,000 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-19 18:45:06,000 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-19 18:45:06,000 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-19 18:45:06,001 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-19 18:45:06,008 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-03-19 18:45:06,013 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2026-03-19 18:45:06,015 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-19 18:45:06,015 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-19 18:45:06,016 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-19 18:45:06,016 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-19 18:45:06,016 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-19 18:45:06,017 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-19 18:45:06,018 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-03-19 18:45:06,018 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-19 18:45:06,019 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-19 18:45:06,020 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-19 18:45:06,020 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-19 18:45:06,020 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-19 18:45:06,153 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dinesh A\AppData\Local\Temp\testng-eclipse-947896748\testng-customsuite.xml
+
+2026-03-19 18:45:06,162 INFO u.TestListener [main] ===== TEST SUITE STARTED: Default test =====
+2026-03-19 18:45:06,171 INFO o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2026-03-19 18:45:06,199 INFO t.CheckoutTest [main] ========== TEST START ==========
+2026-03-19 18:45:06,200 INFO t.CheckoutTest [main] Initializing browser: chrome
+2026-03-19 18:45:06,358 INFO u.TestListener [main] ===== TEST STARTED: checkoutFlow =====
+2026-03-19 18:45:06,368 WARN u.TestListener [main] ===== TEST SKIPPED: checkoutFlow =====
+2026-03-19 18:45:06,418 INFO u.TestListener [main] ===== TEST SUITE FINISHED: Default test =====
+2026-03-19 18:45:06,720 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@61dde151: 53 ms
+2026-03-19 18:45:06,792 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.jq.Main@33d53216: 72 ms
+2026-03-19 18:45:06,804 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.FailedReporter@35e8316e: 11 ms
+2026-03-19 18:45:06,810 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.XMLReporter@40e60ece: 6 ms
+2026-03-19 18:45:06,819 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@350a94ce: 8 ms
+2026-03-19 18:45:06,827 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@65753040: 7 ms
+2026-03-19 18:45:06,827 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@2954b5ea: 0 ms
+2026-03-19 18:47:40,267 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-19 18:47:40,271 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-03-19 18:47:40,272 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-19 18:47:40,273 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-19 18:47:40,273 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-19 18:47:40,273 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-19 18:47:40,274 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-19 18:47:40,274 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-19 18:47:40,275 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-19 18:47:40,275 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-19 18:47:40,275 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-19 18:47:40,275 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-19 18:47:40,275 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-19 18:47:40,276 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-19 18:47:40,276 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-19 18:47:40,276 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-19 18:47:40,282 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-03-19 18:47:40,288 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2026-03-19 18:47:40,289 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-19 18:47:40,289 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-19 18:47:40,290 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-19 18:47:40,290 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-19 18:47:40,290 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-19 18:47:40,290 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-19 18:47:40,291 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-19 18:47:40,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-03-19 18:47:40,292 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-19 18:47:40,293 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-19 18:47:40,293 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-19 18:47:40,293 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-19 18:47:40,425 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dinesh A\AppData\Local\Temp\testng-eclipse--415037098\testng-customsuite.xml
+
+2026-03-19 18:47:40,434 INFO u.TestListener [main] ===== TEST SUITE STARTED: Default test =====
+2026-03-19 18:47:40,443 INFO o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2026-03-19 18:47:40,470 INFO t.CheckoutTest [main] ========== TEST START ==========
+2026-03-19 18:47:40,470 INFO t.CheckoutTest [main] Initializing browser: chrome
+2026-03-19 18:47:40,618 INFO u.TestListener [main] ===== TEST STARTED: checkoutFlow =====
+2026-03-19 18:47:40,633 WARN u.TestListener [main] ===== TEST SKIPPED: checkoutFlow =====
+2026-03-19 18:47:40,697 INFO u.TestListener [main] ===== TEST SUITE FINISHED: Default test =====
+2026-03-19 18:47:41,020 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@61dde151: 46 ms
+2026-03-19 18:47:41,087 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.jq.Main@33d53216: 67 ms
+2026-03-19 18:47:41,098 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.FailedReporter@35e8316e: 9 ms
+2026-03-19 18:47:41,103 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.XMLReporter@40e60ece: 5 ms
+2026-03-19 18:47:41,114 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@350a94ce: 11 ms
+2026-03-19 18:47:41,124 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@65753040: 9 ms
+2026-03-19 18:47:41,124 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@2954b5ea: 0 ms
+2026-03-19 18:48:45,212 INFO u.TestListener [main] ===== TEST SUITE STARTED: Default test =====
+2026-03-19 18:48:45,247 INFO t.CheckoutTest [main] ========== TEST START ==========
+2026-03-19 18:48:45,249 INFO t.CheckoutTest [main] Initializing browser: chrome
+2026-03-19 18:48:45,392 INFO u.TestListener [main] ===== TEST STARTED: checkoutFlow =====
+2026-03-19 18:48:45,405 WARN u.TestListener [main] ===== TEST SKIPPED: checkoutFlow =====
+2026-03-19 18:48:45,456 INFO u.TestListener [main] ===== TEST SUITE FINISHED: Default test =====
+2026-03-19 18:49:49,443 INFO u.TestListener [main] ===== TEST SUITE STARTED: Default test =====
+2026-03-19 18:49:49,483 INFO t.CheckoutTest [main] ========== TEST START ==========
+2026-03-19 18:49:49,484 INFO t.CheckoutTest [main] Initializing browser: chrome
+2026-03-19 18:49:49,653 INFO u.TestListener [main] ===== TEST STARTED: checkoutFlow =====
+2026-03-19 18:49:49,662 WARN u.TestListener [main] ===== TEST SKIPPED: checkoutFlow =====
+2026-03-19 18:49:49,708 INFO u.TestListener [main] ===== TEST SUITE FINISHED: Default test =====
+2026-03-19 19:14:40,052 INFO u.TestListener [main] ===== TEST SUITE STARTED: Default test =====
+2026-03-19 19:14:40,090 INFO t.CheckoutTest [main] ========== TEST START ==========
+2026-03-19 19:14:40,092 INFO t.CheckoutTest [main] Initializing browser: chrome
+2026-03-19 19:14:40,229 INFO u.TestListener [main] ===== TEST STARTED: checkoutFlow =====
+2026-03-19 19:14:40,239 WARN u.TestListener [main] ===== TEST SKIPPED: checkoutFlow =====
+2026-03-19 19:14:40,292 INFO u.TestListener [main] ===== TEST SUITE FINISHED: Default test =====

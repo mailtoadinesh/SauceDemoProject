@@ -1,0 +1,10 @@
+<suite name="SauceDemoSuite" parallel="tests" thread-count="2">
+<listeners>
+<listener class-name="utils.TestListener"/>
+</listeners>
+<test name="CheckoutFlowTest">
+<classes>
+<class name="tests.CheckoutTest"/>
+</classes>
+</test>
+</suite>
