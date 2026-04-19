@@ -1,0 +1,26 @@
+# Maven build output
+target/
+*.class
+
+# Eclipse specific files
+.classpath
+.project
+.settings/
+.factorypath
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# JAR/WAR/ZIP build artifacts
+*.jar
+*.war
+*.zip
+*.tar.gz 
